@@ -9,7 +9,7 @@
 
   ## Description
   This is a simple backend for an e-commerce app that displays simple CRUD operations.
-  [![Video here](https://drive.google.com/file/d/1mtkqQFS2yY6gaIX8iq2pCsEOxNtFNaCB/view)]
+  [!][Video here](https://drive.google.com/file/d/1mtkqQFS2yY6gaIX8iq2pCsEOxNtFNaCB/view)
   ## Installation
   To install run npm i
   ## Usage
