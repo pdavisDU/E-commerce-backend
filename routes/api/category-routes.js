@@ -41,8 +41,8 @@ router.post('/', async (req, res) => {
     res.status(400).json(err);
   }
 });
-
-router.put('/:id', (req, res) => {
+//threw error because forgot the async
+router.put('/:id', async (req, res) => {
   // update a category by its `id` value
   try {
     const catNow = await Category.update(
